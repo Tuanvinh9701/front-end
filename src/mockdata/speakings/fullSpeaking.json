@@ -1,0 +1,392 @@
+{
+    "geography": {
+        "title": "Geography",
+        "date": "30/11/2022",
+        "script": [
+            {
+                "question": "Have you ever studied geography at school?",
+                "answer": "Well, Geography was a compulsory (cầmpắlsory) subject in junior high school in Vietnam. I have learned both national geography and world geography. I just remember that at that time there were a great deal of names to memorize (memozaisz), the mountains, the rivers. Not a pleasant (pleran) experience for me.",
+                "audio": "geographyQ1"
+            },
+            {
+                "question": "Do you like geography?",
+                "answer": "Nope, geography is just not my thing. I find it boring because it is an isolated subject. But when I travel to a new place. I sometimes feel the importance of knowing a bit geography.",
+                "audio": "geographyQ2"
+            },
+            {
+                "question": "Are you good at reading a map?",
+                "answer": "I think I have a knack(nak) for reading the map. But now this skill would not come in handy. Because the navigation app in the smartphone become a large part of our life. You know, it shows my starting point, the route and even the arrival time, so it helps me to find the places everywhere I go.",
+                "audio": "geographyQ3"
+            },
+            {
+                "question": "Would you visit a country because of its geographical location?",
+                "answer": "Of course, it is always the important factor that I would take into consideration when choosing a country to visit. The other day while I was doing the IELTS reading practice, I happened to read an article (a: dich cal) about geography in England, and it did arouse (o raus) my interest in these places.",
+                "audio": "geographyQ4"
+            }
+        ]
+    },
+    "birthday": {
+        "title": "birthday",
+        "date": "30/11/2022",
+        "script": [
+            {
+                "question": "What do you usually do on your birthday?",
+                "answer": "Actually, the whole (hol) birthday thing is a pretty big deal for me. As to know I celebrate /selibreit/ my birthday. I usually eat out with my family or hang out with my friends.",
+                "audio": "birthdayQ1"
+            },
+            {
+                "question": "What did you do on your birthday when you were young?",
+                "answer": "Actually, there were so many ways to celebrate the birthday such as eating out, throwing a birthday party, going clubbing and everything exciting.",
+                "audio": "birthdayQ2"
+            },
+            {
+                "question": "Do you think it is important for you to celebrate your birthday?",
+                "answer": "I think celebrations are surely an important part of our lives. However, in my opinion, celebrating does not always means spending money on parties, especially when I was still a student.",
+                "audio": "birthdayQ3"
+            }, 
+            {
+                "question": "Whose birthday do you think is the most important to celebrate in VietNam?",
+                "answer": "In my country, the birthday of President Ho Chi Minh on May 19 is celebrated by the Vietnamese people. On that day every year, many activities in memory of President Ho Chi Minh are held (heod) across (o cots) the country.",
+                "audio": "birthdayQ4"
+            }
+        ]
+    },
+    "cooking": {
+        "title": "cooking",
+        "date": "30/11/2022",
+        "script": [
+            {
+                "question": "Do you like cooking? Why / why not?",
+                "answer": "I’m addicted to cooking. The reason why I love cooking is that it helps me feel relaxed after long hours studying.",
+                "audio": "cookingQ1"
+            },
+            {
+                "question": "Who did the cooking in your family when you were a child?",
+                "answer": "As my remember when I was young, my mother always did the cooking. I’m always addicted to my mother food. Because, it helps me feel relaxed after long hours studying. So, In my eyes: “she is the best cook ever”.",
+                "audio": "cookingQ2"
+            },
+            {
+                "question": "Do you think that it's important to know how to cook well?",
+                "answer": "Yes, I think it. Because, Cooking is one of the most fundamental skills in our daily life. If I don’t know how to cook well When I had to live on my own, I would struggle a lot.",
+                "audio": "cookingQ3"
+            },
+            {
+                "question": "Do you think that children should be taught cookery at school?",
+                "answer": "Yes. That probably a good idea.  Because, cooking is one of the most fundamental skills in their daily life. If they don’t know how to cook, and when it’s time they had to live on their own, they would struggle a lot.",
+                "audio": "cookingQ4"
+            },
+            {
+                "question": "Do you have breakfast at home every day?",
+                "answer": "Ohhh definitely, I always eat breakfast at home. Because, I often get up early at 6 am to prepares food for me. I’m addicted to that.",
+                "audio": "cookingQ5"
+            }
+        ]
+    },
+    "name": {
+        "title": "name",
+        "date": "30/11/2022",
+        "script": [
+            {
+                "question": "Does your name have a special meaning?",
+                "answer": "Well, my name is very special to me as it is to my parents. My Vietnamese name is Dương Công Sơn. “Dương” stands for “Beaches”, “Sơn” means “moutains”. Hmm, I think my parents hope I will be strong and beautiful such as beaches and mountains. I really love this name because it includes my parents’ expectations.",
+                "audio": "nameQ1"
+            },
+            {
+                "question": "How do you choose names for your next generation?",
+                "answer": "Actually, I like to go for my children’s names that include my name for my son and my wife’s name for my daughter. For instance, my name is Son so that I will name my child Son Ha. It maybe change in the future but now I find it very lovely",
+                "audio": "nameQ2"
+            },
+            {
+                "question": "Are there any differences between how Vietnamese name their children now and in the past? ",
+                "answer": "From my perspective, it is very different between Vietnamese generations when it comes to naming their children. In the past, the most popular middle names in Vietnam were “Van” for men and “Thi” for women. However, Vietnamese now replace them by more meaningful and special names.",
+                "audio": "nameQ3"
+            },
+            {
+                "question": "Does anyone in your family have the same as you?",
+                "answer": "No, there is nobody in my family whom I have the same name with. In my country, it is disrespectful when naming children similarly to older relatives. However, my little brother’s name sounds so similar to mine that I sometimes mishear when my mom calls him.",
+                "audio": "nameQ4"
+            }
+        ]
+    },
+    "home": {
+        "title": "home",
+        "date": "30/11/2022",
+        "script": [
+            {
+                "question": "What kind of housing/accommodation do you live in?",
+                "answer": "I’m currently living in a student hostel which is really close to my university. It isn’t too spacious but it brings warm feelings to me.",
+                "audio": "homeQ1"
+            },
+            {
+                "question": "Who do you live with?",
+                "answer": "I live with one of my college friends. He is also my teacher who teaches me English.",
+                "audio": "homeQ2"
+            },
+            {
+                "question": "How long have you lived there?",
+                "answer": "I’ve been living here since last year.I used to live in a hall of residence but I’m finding it a bit noisy  When I need to get down to some study.",
+                "audio": "homeQ3"
+            },
+            {
+                "question": "What’s the difference between where you are living now and where you have lived in the past?",
+                "answer": "I used to live in a hall of residence but I’m finding it a bit noisy when I need to get down to some study. Now, my accommodation is really convenient and private (pai vợi).",
+                "audio": "homeQ4"
+            }
+        ]
+    },
+    "socalMedia": {
+        "title": "socalMedia",
+        "date": "30/11/2022",
+        "script": [
+            {
+                "question": "Do you like to use social media?",
+                "answer": "Yes, I do. I spend most of my free time on Facebook. I find it such a great way to blow off steam. But I don’t think I’m addicted to it.",
+                "audio": "socalMediaQ1"
+            },
+            {
+                "question": "Do you think your friends use too much social media?",
+                "answer": "Definitely, almost of my friends are addicted to social network. Because social media become a large part of people’s life. Even when we hang out to meet each other. They still have their eyes glued to the newsfeed of Facebook.",
+                "audio": "socalMediaQ2"
+            },
+            {
+                "question": "Do you want to work in social media? Why?",
+                "answer": "No, I don’t. Because, my ambition is to study master in a foreign country and become a lecturer in university.",
+                "audio": "socalMediaQ3"
+            },
+            {
+                "question": "What’s the most popular social media in VietNam? Why?",
+                "answer": "It used to be Facebook but now Tiktok is taking over. I don’t know exactly but I guess the algorithm of tiktok is more suitable for young people. So tiktok become one of the most popular social network in VietNam.",
+                "audio": "socalMediaQ4"
+            }
+        ]
+    },
+    "talents": {
+        "title": "talents",
+        "date": "30/11/2022",
+        "script": [
+            {
+                "question": "Do you have a talent, or a something you are good at?",
+                "answer": "I think I have a knack(nak) for problem-solving skill. Because, I’m majoring in CS, it teaches me the process of breaking down the problem.",
+                "audio": "talentsQ1"
+            },
+            {
+                "question": "Do you think your talent can be useful for your future work?",
+                "answer": "Yes sure. Because, in the future, the value of problem-solving skill will help me determine (di tor mi) why an issue is happening and how to resolve(rizaov) that issue. Basically, it makes life so much easier.",
+                "audio": "talentsQ2"
+            },
+            {
+                "question": "Do you think anyone in your family has the same talent?",
+                "answer": "I think I’ve inherited problems-solving skill from my father. Because, my father is a truck driver. While he has to face a lot of problem, he still overcome them base on step-by-step strategy (s tra do gi:). So he always teaches me the process of breaking down the problem. ",
+                "audio": "talentsQ3"
+            }
+        ]
+    },
+    "transport": {
+        "title": "transport",
+        "date": "30/11/2022",
+        "script": [
+            {
+                "question": "What kind of public transportation do you usually take?",
+                "answer": "I’m not very much into public transportation. I often go to school by motorbike because my university is close to my home. I know public transport can (KAN) contain a large number of people, it also helps ease(i:z) the intensity(in ten so ty) of traffic jams and reduce the greenhouse gas emissions(I me’ shionz) but it’s not very convenient for me to get to university on time.",
+                "audio": "transportQ1"
+            },
+            {
+                "question": "Do most people prefer public transportation in your country?",
+                "answer": "I guess the answer is no. Because the most common means of transport in my country are private motorbikes or cars. Due to the fact that our public transport system is rather underdeveloped(t) and limited(li mi did).",
+                "audio": "transportQ2"
+            },
+            {
+                "question": "Did you take transportation when you were a kid?",
+                "answer": "On the occasion, I did take public transport when I was a child. I would probably be the bus. Because there was a bus direct from the small town that I lived into the nearest city.",
+                "audio": "transportQ3"
+            },
+            {
+                "question": "When do you usually take public transportation, in your everyday life or when you are travelling?",
+                "answer": "I usually take public transportation when I travel. Because I often travel with my friends. You know, traveling by coach can help reduce the number of our private motorbikes. Besides traveling by coach, we can also talk together.",
+                "audio": "transportQ4"
+            }
+        ]
+    },
+    "weather": {
+        "title": "weather",
+        "date": "30/11/2022",
+        "script": [
+            {
+                "question": "What’s the weather like where you live?",
+                "answer": "I’m currently residing in Vietnam which is a tropical country. So it’s boiling(boyling) hot and humid year-round",
+                "audio": "weatherQ1"
+            },
+            {
+                "question": "Do you prefer cold or hot weather?",
+                "answer": "Ohh, I am especially fond(FA:ND) of the cold weather. Because I think it is the best time to hold hands(hens) with my girl friend while walking around the West Lake.",
+                "audio": "weatherQ2"
+            },
+            {
+                "question": "Do you prefer dry or wet weather?",
+                "answer": "I’m especially fond of the dry (DRAI) weather. Because during this time, I can do a lot of out door activities like playing football, go jogging or go swimming with my friends. Unlike wet weather which very dirty to hangout.",
+                "audio": "weatherQ3"
+            },
+            {
+                "question": "Do you get in the habit of checking the weather forecast?",
+                "answer": "I often check the weather forecast on the daily basis before hanging out. Because I don’t want to arrive at my school in the rain which very dirty and muddy.",
+                "audio": "weatherQ4"
+            }
+        ]
+    },
+    "singing": {
+        "title": "singing",
+        "date": "3/12/2022",
+        "script": [
+            {
+                "question": "Do you like singing? Why?",
+                "answer": "I love to sing, but I don’t sing in public. Because, I’m not too good at singing. I can’t reach high notes, and sometimes I forget words to songs.",
+                "audio": "singingQ1"
+            },
+            {
+                "question": "Have you ever learnt how to sing?",
+                "answer": "Yes, l have. Because, every child in Viet Nam takes music lessons in primary school. If my memory serves me right, we started to learn singing at pretty young age. I’ve forgotten most of what I learnt though (thrâu).",
+                "audio": "singingQ2"
+            },
+            {
+                "question": "Who do you want to sing for?",
+                "answer": "Oh, only for myself. [As I said earlier]. I’m not good at singing, so I just sing on my own and the bathroom is really perfect for singing because the sound effects are so amazing. Otherwise, it’s pretty embarrassing to sing in front of others.",
+                "audio": "singingQ3"
+            },
+            {
+                "question": "Do you think singing can bring happiness to people?",
+                "answer": "Yes, definitely. Because, when somebody’s stressed out, singing is like a great way to blow off some steam. And It helps us relax after a long day.",
+                "audio": "singingQ4"
+            }
+        ]
+    },
+    "writing": {
+        "title": "writing",
+        "date": "7/12/2022",
+        "script": [
+            {
+                "question": "Do you write a lot?",
+                "answer": "Well, I’m quite into writing. I have the habit of jotting down everything that is important. Because I have a memory like a sieve (siv). So it is the best way to remember anything.",
+                "audio": "writingQ1"
+            },
+            {
+                "question": "What do you like to write? Why?",
+                "answer": "I’m really keen on writing a problem statement. Because it helps me understand and contextualize the significance of my problem. Therefore, I can break down this problem to overcome that.",
+                "audio": "writingQ2"
+            },
+            {
+                "question": "How has your handwriting changed?",
+                "answer": "I will be tedious. Because now I’m studying in CS, I often type by computer. So I do write a fair bit.",
+                "audio": "writingQ3"
+            },
+            {
+                "question": "Do you prefer typing or handwriting when you are writing?",
+                "answer": "Well, it depends what has to be written, I suppose. So simple notes for lessons can be handwritten, for example. But a report probably needs a more professional where I’m sitting at my laptop typing and putting everything in a logical order and making it presentable.",
+                "audio": "writingQ4"
+            }
+        ]
+    },
+    "sports": {
+        "title": "sports",
+        "date": "23/12/2022",
+        "script": [
+            {
+                "question": "What sports do you like? ",
+                "answer": "Well, I think I’m a big fan of sports. Although I’m not good at it, but my favorite one is soccer. Because practicing a sport regularly does wonder for my health. It keeps me in shape. And last but not least, it refreshes my mind after a long day of hard work.",
+                "audio": "sportsQ1"
+            },
+            {
+                "question": "Where did you learn how to do it?",
+                "answer": "Well in my country, soccer is the most popular sport and almost every boy has gone for a kickabout once or twice in their life without having to take any training course. It’s the same thing for my case. I just joined some matches with my peers since I was a kid and learned the skill heuristically.",
+                "audio": "sportsQ2"
+            },
+            {
+                "question": "Did you do any sport when you were young?",
+                "answer": "Yes, if my memory serves me right, I started playing soccer when I was little, in primary school. Sometimes we used our backpacks as the goalposts.",
+                "audio": "sportsQ3"
+            },
+            {
+                "question": "Do you think students need more exercise?",
+                "answer": "Yes, definitely. Because, now the number of children being overweight. Therefore, exercise keeps them in shape. And refreshes their mind after a long day.",
+                "audio": "sportsQ4"
+            }
+        ]
+    },
+    "books": {
+        "title": "books",
+        "date": "23/12/2022",
+        "script": [
+            {
+                "question": "Do you enjoy reading?",
+                "answer": "Yes, I do. I enjoy reading books on science most. because it helps me the process of breaking down the problem. So I can improve my logical skill.",
+                "audio": "booksQ1"
+            },
+            {
+                "question": "Do you often read books? When?",
+                "answer": "Yes, I often read books in my day-to-day life because it helps me to learn about many different kinds of things. Besides, it’s a great way to improve my logical /la:gical/ and creative thinking skills. Actually, I’m more into reading business and science books.",
+                "audio": "booksQ2"
+            },
+            {
+                "question": "Has your reading habit changed since you were young? ",
+                "answer": "Well, I think it’s just the same, the only thing that’s different now is that I read a lot of computer science books because now I’m majoring in computer science so I find them so fascinating.",
+                "audio": "booksQ3"
+            },
+            {
+                "question": "Have you ever read a novel that has been adapted into a film?",
+                "answer": "Well I would say the opposite /a: pezit/. I read the novel after I watched a movie. I recently completed one of my favorite movies that is Harry Potter. Because it contains a lot of impressive stories and I really liked the movie a lot. And then I bought the novel afterwards, but I still think the movie is more tasteful.",
+                "audio": "booksQ4"
+            },
+            {
+                "question": "Which do you prefer, reading books or watching movies?",
+                "answer": "That’s hard because I do love both! However, if I needed to choose one, I’d go for reading books. Because there are more details in the book. So I can create images in my mind based on the events that are described in the books.",
+                "audio": "booksQ4"
+            }
+        ]
+    },
+    "puzzles": {
+        "title": "puzzles",
+        "date": "3/1/2022",
+        "script": [
+            {
+                "question": "Did you do puzzles when you were a kid?",
+                "answer": "Well in fact, I was a big fan of puzzles when I was younger. Because, I am really into solving rubik’s cubes. It helped me to learn the process of breaking down the problem.",
+                "audio": "puzzlesQ1"
+            },
+            {
+                "question": "When do you do puzzles, during a trip or when you feel bored?",
+                "answer": "Well to be honest, it kind of depends really. If I am on my way, traveling to tourist destinations during holidays, then it will be a brilliant choice to carry a rubik’s cube to pass the time. In addition, when I feel a bit torpid, I will play some puzzle games on my phone.",
+                "audio": "puzzlesQ2"
+            },
+            {
+                "question": "What do you like doing, word puzzles or number puzzles? Which one is more difficult for you?",
+                "answer": "I think I am especially fond of word puzzles. Because it is an excellent way to learn language. You know, these are good sources for learning new vocabulary.",
+                "audio": "puzzlesQ3"
+            },
+            {
+                "question": "Do you think it is good for old people to do puzzles?",
+                "answer": "Yes definitely, there are many benefits when the elderly really keen on puzzles. Because, it helps them recollect their memory and those activities can keep them active.",
+                "audio": "puzzlesQ4"
+            }
+        ]
+    },
+    "library": {
+        "title": "library",
+        "date": "12/1/2022",
+        "script": [
+            {
+                "question": "Do you often go to library?",
+                "answer": "Yes, I frequently visit the university library on a daily basis. Because my university has a state-of-the-art library that have an extensive collection of books ranging from subject to science books. So it’s a good place for me to go to study.",
+                "audio": "libraryQ1"
+            },
+            {
+                "question": "Did you go to library when you were a kid?",
+                "answer": "Yes, I used to go to the library with my father as a child. He frequently buys books for me. Because my father believes that reading a book improves my ability to recognize letters and improves my communication skills.",
+                "audio": "libraryQ2"
+            },
+            {
+                "question": "Do Vietnamese kids often go to library?",
+                "answer": "No, I don’t believe so. Today, most children in my country are not interested in books in the library. It’s probably because there are so many books and documents available on the internet. As a result, they can easily find the information they seek.",
+                "audio": "libraryQ2"
+            }
+        ]
+    }
+}

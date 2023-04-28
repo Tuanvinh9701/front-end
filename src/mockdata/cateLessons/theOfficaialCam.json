@@ -1,0 +1,250 @@
+{
+    "author": "Vinh Truong",
+    "backgroundColor": "#0d2157",
+    "image": "theOfficialCam",
+    "released": 2019,
+    "title": "The Official",
+    "tracks": [
+      { "id": 1, "title": "Lesson 1", "seconds": 251, "content": "Today, Du went to the office to meet his boss and asked for a leave of absence. The boss was extremely (1), and asked because Why believe (2) like that. Du said, Du wanted to quit work to (3) go to (4) on his own. Thought Du would be punished for (5). Surprisingly, the boss was not angry but instead ( 6) and said he would (7) have extra money if Du needed it. In the afternoon, Du went to find the landlord and (8) the lease contract. (11) so Du (12) the landlord gives a little more time. Finally, 2 (13) also (14) and (15) Du and some of his friends are up (16) in marketing, ( 17), … Du knows that (18) is extremely important, (19), Du has considered the lower (20) but still guarantees (21) for (22)",    
+      "transfers": [
+        {
+          "id": 1,
+          "es": "surprised",
+          "vi": "Ngạc nhiên"
+        },
+        {
+          "id": 2,
+          "es": "decide",
+          "vi": "Quyết định"
+        },
+        {
+          "id": 3,
+          "es": "focus",
+          "vi": "Tập trung"
+        },
+        {
+          "id": 4,
+          "es": "business",
+          "vi": "Kinh doanh"
+        },
+        {
+          "id": 5,
+          "es": "breach (the contract)",
+          "vi": "Phá vỡ hợp đồng"
+        },
+        {
+          "id": 6,
+          "es": "accept",
+          "vi": "Chấp nhận"
+        },
+        {
+          "id": 7,
+          "es": "support",
+          "vi": "Hỗ trợ"
+        },
+        {
+          "id": 8,
+          "es": "negotiate",
+          "vi": "Thương lượng"
+        },
+        {
+          "id": 9,
+          "es": "obligate",
+          "vi": "Bắt buộc"
+        },
+        {
+          "id": 10,
+          "es": "deposit",
+          "vi": "Tiền đặt cọc"
+        },
+        {
+          "id": 11,
+          "es": "affordable",
+          "vi": "Có khả năng chi trả"
+        },
+        {
+          "id": 12,
+          "es": "convince",
+          "vi": "Thuyết phục"
+        },
+        {
+          "id": 13,
+          "es": "party",
+          "vi": "Các bên"
+        },
+        {
+          "id": 14,
+          "es": "compromise",
+          "vi": "Thống nhất"
+        },
+        {
+          "id": 15,
+          "es": "sign the contract",
+          "vi": "Ký hợp đồng"
+        },
+        {
+          "id": 16,
+          "es": "strategy",
+          "vi": "Chiến lược"
+        },
+        {
+          "id": 17,
+          "es": "product",
+          "vi": "Sản phẩm"
+        },
+        {
+          "id": 18,
+          "es": "customer satisfaction",
+          "vi": "Sự hài lòng của khách hàng"
+        },
+        {
+          "id": 19,
+          "es": "therefore",
+          "vi": "Do đó"
+        },
+        {
+          "id": 20,
+          "es": "lower price",
+          "vi": "Giảm giá"
+        },
+        {
+          "id": 21,
+          "es": "quality",
+          "vi": "Chất lượng"
+        },
+        {
+          "id": 22,
+          "es": "customer",
+          "vi": "Khách hàng"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Lesson 2",
+      "seconds": 251, 
+      "content":"Today is the grand day (1), this morning Tin woke up early to put (2) everything in place 1 week ago, Tin was distributed (3) everywhere, (4) on the internet about today's ceremony should expect many people (5) Moreover, with the convenience (6) of the company, there are many people today (7). On the occasion of opening, the company offers 01 (8), which is (9) 30% of all products if a customer purchases(10) today Since customers often compare(11) prices when making a purchase, Tin has planned various(12) product lines. to accommodate(13) customer's needs In addition, those who(14) who buy today will get free shipping(15). The company announced(16), everyone gather(17) gathered in front of the stage, Tin address(18) a demonstration(19) about the benefits(20) if a customer buys at Tin's company.Everybody evaluate(21) highly about Tin's speech(22. apply for(23) membership(24) will be further reduced",    
+      "transfers": [
+        {
+          "id": 1,
+          "es": "grand opening",
+          "vi": "Khai trương"
+        },
+        {
+          "id": 2,
+          "es": "prepare",
+          "vi": "chuẩn bị"
+        },
+        {
+          "id": 3,
+          "es": "brochure",
+          "vi": "Sách quảng cáo sản phẩm"
+        },
+        {
+          "id": 4,
+          "es": "advertise",
+          "vi": "quảng cáo"
+        },
+        {
+          "id": 5,
+          "es": "attract",
+          "vi": " thu hút"
+        },
+        {
+          "id": 6,
+          "es": "convenient location",
+          "vi": "địa điểm/vị trí thuận tiện"
+        },
+        {
+          "id": 7,
+          "es": "well-attended",
+          "vi": " có nhiều người tham dự"
+        },
+        {
+          "id": 8,
+          "es": "special offer",
+          "vi": "giảm giá đặc biệt"
+        },
+        {
+          "id": 9,
+          "es": "discount",
+          "vi": "giảm giá"
+        },
+        {
+          "id": 10,
+          "es": "purchase",
+          "vi": "mua"
+        },
+        {
+          "id": 11,
+          "es": "compare",
+          "vi": "so sánh"
+        },
+        {
+          "id": 12,
+          "es": "various",
+          "vi": "đa dạng"
+        },
+        {
+          "id": 13,
+          "es": "accommodate",
+          "vi": " đáp ứng"
+        },
+        {
+          "id": 14,
+          "es": "those who",
+          "vi": "những ai người mà"
+        },
+        {
+          "id": 15,
+          "es": "free shipping",
+          "vi": "miễn phí giao hàng"
+        },
+        {
+          "id": 16,
+          "es": "announce",
+          "vi": "thông báo"
+        },
+        {
+          "id": 17,
+          "es": "gather",
+          "vi": "tập hợp"
+        },
+        {
+          "id": 18,
+          "es": "address",
+          "vi": "phát biểu"
+        },
+        {
+          "id": 19,
+          "es": "demonstration",
+          "vi": "bài chứng minh/thuyết minh"
+        },
+        {
+          "id": 20,
+          "es": "benefit",
+          "vi": " lợi ích"
+        },
+        {
+          "id": 21,
+          "es": "evaluate",
+          "vi": "đánh giá"
+        },
+        {
+          "id": 22,
+          "es": "speech",
+          "vi": "bài nói/bài phát biểu"
+        },
+        {
+          "id": 23,
+          "es": "apply for",
+          "vi": "đăng ký"
+        },
+        {
+          "id": 24,
+          "es": "membership",
+          "vi": "thành viên"
+        }] }
+    ]
+  }
+  

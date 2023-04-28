@@ -1,0 +1,11 @@
+[
+  { "id": 1, "icon": "user", "title": "Information of user", "slug": "EditAdmin" },
+  { "id": 2, "icon": "edit", "title": "Add new words", "slug": "AddVocab" },
+  { "id": 3, "icon": "book", "title": "Translate", "slug": "Dictionary" },
+  { "id": 4, "icon": "bookmark", "title": "Vocab saved", "slug": "HomeLearnVocab" },
+  { "id": 5, "icon": "mic", "title": "Speaking", "slug": "LearnSpeaking" },
+  { "id": 6, "icon": "book-open", "title": "Lesson learned", "slug": "ListBook" },
+  { "id": 7, "icon": "star", "title": "Vote", "slug": "EditAdmin" },
+  { "id": 8, "icon": "phone", "title": "Support contact", "slug": "EditAdmin" },
+  { "id": 9, "icon": "log-out", "title": "Logout", "slug": "ModalLogIn"}
+]
