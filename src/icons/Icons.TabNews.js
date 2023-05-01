@@ -8,7 +8,7 @@ const IconsTabNews = ({ active, size }) => {
   const fill = active ? colors.white : colors.greyInactive;
 
   return (
-    <Ionicons name={"flash-outline"} size={size} color={fill} />
+    <Ionicons name={"today"} size={size} color={fill} />
   );
 };
 IconsTabNews.defaultProps = {

@@ -35,6 +35,13 @@ export default () => (
       }}
     >
       <Stack.Screen
+        name="ModalLogIn"
+        component={ModalLogIn}
+        options={{
+          headerShown: false
+        }}
+      />
+      <Stack.Screen
         name="TabNavigation"
         component={TabNavigation}
         options={{
@@ -57,14 +64,6 @@ export default () => (
           animation: 'slide_from_bottom',
           headerShown: false,
           presentation: 'transparentModal'
-        }}
-      />
-
-      <Stack.Screen
-        name="ModalLogIn"
-        component={ModalLogIn}
-        options={{
-          headerShown: false
         }}
       />
 

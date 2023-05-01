@@ -90,14 +90,14 @@ const LearnSpeaking = () => {
                 right={<Feather color={colors.greyLight} name="more-horizontal" />}
                 text={"Speaking Topics"}
             />
-            <View style={styles.searchView}>
+            {/* <View style={styles.searchView}>
                 <TextInput style={styles.input} placeholder="Search" placeholderTextColor="#FFF" onChangeText={(text) => setQuery(text)}></TextInput>
-            </View>
+            </View> */}
             <React.Fragment>
                 <Animated.ScrollView>
                     <View style={styles.containerVocab}>
                         <View style={gStyle.spacer1} />
-                        { filterTopic.map(title => {
+                        { titles.map(title => {
                             if (!topicSpeakingCurrent.includes(title)) {
                                 return (
                                     <Pressable key={title} style={styles.vocabViewCurrent} onPress={() => moveToTopic(title)}>

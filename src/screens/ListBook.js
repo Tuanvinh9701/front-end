@@ -84,24 +84,12 @@ const ListBook = ({ navigation, route }) => {
                                                 <View style={{ justifyContent: 'space-around', flex: 2 / 3, margin: 10 }}>
                                                     <Text style={styles.title}>Book: {title} </Text>
                                                     <Text style={styles.author}>Author: {author}</Text>
+                                                    <Text style={styles.date}>Date: {released}</Text>
                                                 </View>
                                             </View>
                                         </Pressable>
                                         <View style={{ flexDirection: 'row', padding: 5 }}>
-                                            <View style={{ justifyContent: 'space-around', flex: 2 / 3, margin: 10 }}>
-                                                <Text style={styles.date}>Date: {released}</Text>
-                                            </View>
-                                            <View style={{ flex: 1 / 3, margin: 10 }}>
-                                                <View style={{ flexDirection: 'row', justifyContent: 'space-around' }}>
-                                                    <TouchIcon
-                                                        icon={<FontAwesome color={colors.white} name={"heart-o"} />}
-                                                    />
-                                                    <Pressable onPress={() => { Linking.openURL('https:facebook.com') }}>
-                                                        <TouchIcon
-                                                            icon={<FontAwesome color={colors.white} name={"share"} />}
-                                                        />
-                                                    </Pressable>
-                                                </View>
+                                            <View style={{ justifyContent: 'space-around', flex: 2 / 3, margin: 10 }}>                                               
                                             </View>
                                         </View>
                                     </View>

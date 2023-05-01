@@ -82,7 +82,7 @@ export default () => (
       name="StackPerson"
       component={StackPerson}
       options={{
-        tabBarLabel: 'Person'
+        tabBarLabel: 'Account'
       }}
     />
   </Tab.Navigator>

@@ -228,7 +228,6 @@ export default function Game({ navigation, route }) {
       });
     }
   };
-  //load thoi // xay dung danh sach cau tl
 //   console.log(counter);
   const onCloseModal = () => {
     const arrQ = data.transfers;
@@ -293,7 +292,7 @@ export default function Game({ navigation, route }) {
         <View style={styles.viewCount}>
             <Text style={styles.textCount}>Grade: {counter?.numAnswer}</Text>
             <Text style={styles.textCount}>
-            Câu: {counter?.current}/{counter?.size}
+            Question: {counter?.current}/{counter?.size}
             </Text>
         </View>
         

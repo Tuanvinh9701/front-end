@@ -286,7 +286,7 @@ const TopicSpeaking = ({ route }) => {
                 </Pressable>
             </View>
             <View style={styles.voiceComopent}>
-                <View style={styles.iconStyle}>
+                {/* <View style={styles.iconStyle}>
                     <Ionicons
                         name={IsRecording ? "md-mic-off-outline" : "md-mic-outline"}
                         size={35}
@@ -310,6 +310,14 @@ const TopicSpeaking = ({ route }) => {
                         color={"#4F8EF7"}
                         onPress={() => { handleShare() }}
                     />
+                </View> */}
+                <View style={styles.iconStyle}>
+                    <Ionicons
+                        name={"arrow-forward-outline"}
+                        size={35}
+                        color={"#4F8EF7"}
+                        onPress={() => { moveToTopic({nextItem}) }}
+                    />
                 </View>
             </View>
             <View style={styles.header}>
@@ -319,14 +327,6 @@ const TopicSpeaking = ({ route }) => {
                         size={35}
                         color={"#4F8EF7"}
                         onPress={() => { moveToTopic({prevItem}) }}
-                    />
-                </View>
-                <View style={styles.iconStyle}>
-                    <Ionicons
-                        name={"arrow-forward-outline"}
-                        size={35}
-                        color={"#4F8EF7"}
-                        onPress={() => { moveToTopic({nextItem}) }}
                     />
                 </View>
             </View>

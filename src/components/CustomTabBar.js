@@ -22,7 +22,7 @@ const CustomTabBar = ({ descriptors, navigation, state }) => {
 
   return (
     <React.Fragment>
-      {showLessonBar && <BarLessonPlayer lesson={currentLessonData} />}
+      {/* {showLessonBar && <BarLessonPlayer lesson={currentLessonData} />} */}
 
       <View style={styles.container}>
         {state.routes.map((route, index) => {

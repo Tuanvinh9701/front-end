@@ -174,7 +174,7 @@ const CateLesson = ({ navigation, route }) => {
           
         </View>
         <View style={styles.containerLessons}>
-          <View style={styles.row}>
+          {/* <View style={styles.row}>
             <Text style={styles.downloadText}>
               {downloaded ? 'Downloaded' : 'Download'}
             </Text>
@@ -183,7 +183,7 @@ const CateLesson = ({ navigation, route }) => {
               onValueChange={(val) => onToggleDownloaded(val)}
               value={downloaded}
             />
-          </View>
+          </View> */}
 
           {cateLesson.tracks &&
             cateLesson.tracks.map((track) => (

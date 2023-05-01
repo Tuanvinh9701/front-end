@@ -178,7 +178,7 @@ const PostScreen = () => {
                                         <Text style={styles.nameText}>{item.userName}</Text>
                                         <View style={styles.timeView}>
                                             <Text style={styles.timeText}>1m . </Text>
-                                            <Ionicons name={"earth-outline"} size={15} color={colors.white} style={styles.iconGlobal}></Ionicons>
+                                            <Ionicons name={ item.isPublic ? "earth-outline" : "lock-closed-outline"} size={15} color={colors.white} style={styles.iconGlobal}></Ionicons>
                                         </View>
                                     </View>
                                 </View>

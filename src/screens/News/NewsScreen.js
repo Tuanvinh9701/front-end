@@ -64,24 +64,16 @@ export default class NewsScreen extends Component {
                                                 <Text style={styles.description}>{description}</Text>
                                             </View>
                                             <View style={{ flex: 1 / 3, margin: 10 }}>
-                                                <Image style={{ width: 110, height: 85 }} source={{ uri: urlToImage }} />
+                                                <Image style={{ width: 140, height: 100 }} source={{ uri: urlToImage }} />
                                             </View>
                                         </View>
                                     </Pressable>
                                     <View style={{ flexDirection: 'row', padding: 5 }}>
                                         <View style={{ justifyContent: 'space-around', flex: 2 / 3, margin: 10 }}>
-                                            <Text style={styles.date}>Date: 15/11/2022</Text>
+                                            <Text style={styles.date}>Date: 3/3/2023</Text>
                                         </View>
                                         <View style={{ flex: 1 / 3, margin: 10 }}>
                                             <View style={{ flexDirection: 'row', justifyContent: 'space-around' }}>
-                                                <TouchIcon
-                                                    icon={<FontAwesome color={colors.white} name={"heart-o"} />}
-                                                />
-                                                <Pressable onPress={()=>{Linking.openURL('https:facebook.com')}}>
-                                                    <TouchIcon
-                                                        icon={<FontAwesome color={colors.white} name={"share"} />}
-                                                    />
-                                                </Pressable>
                                             </View>
                                         </View>
                                     </View>
@@ -119,11 +111,11 @@ const styles = StyleSheet.create({
         color: "white",
         fontSize: 18,
         fontWeight: "bold",
-        height: 100
+        height: 60
     },
     description: {
         color: "#cccccc",
-        height: 15
+        height: 100
     },
     date: {
         color: "#cccccc",

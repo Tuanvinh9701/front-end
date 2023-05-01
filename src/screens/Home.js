@@ -62,9 +62,9 @@ const Home = () => {
         <Animated.View style={[styles.iPhoneNotch, { opacity: opacityIn }]} />
       )}
 
-      <Animated.View style={[styles.containerHeader, { opacity: opacityOut }]}>
+      {/* <Animated.View style={[styles.containerHeader, { opacity: opacityOut }]}>
         <FontAwesome color={colors.white} name="cog" size={28} />
-      </Animated.View>
+      </Animated.View> */}
 
       <Animated.ScrollView
         onScroll={Animated.event(
